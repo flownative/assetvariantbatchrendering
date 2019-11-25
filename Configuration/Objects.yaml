@@ -1,0 +1,4 @@
+Neos\Media\Browser\Controller\AssetController:
+  properties:
+    assetService:
+      object: Flownative\AssetVariantBatchRendering\Domain\Service\AssetService
