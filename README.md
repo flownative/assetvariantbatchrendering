@@ -14,7 +14,7 @@ It provides the following functionality:
 
 ## Installation
 
-If you want to use this companion, simply require:
+If you want to use this package, simply require it:
 
 ```bash
 $ composer require 'flownative/assetvariantbatchrendering:1.*'
